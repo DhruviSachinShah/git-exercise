@@ -3,9 +3,6 @@ I study in CS department and am in my second year.
 UPDATED LINE
 It has a 3-4 months of induction process.
 The process is over and i have got inducted into it.
-Spider is a R&D club of the college.
-It has a 3-4 months of induction process.
-The process is over and i have got inducted into it.
 This is a part of the git exercise.
 Git is VCS that tracks changes in file.
 It is used for coordinating work between different people working on same project.
